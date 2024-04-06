@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Master's student in Computer Application.<br>🤝 Basic knowledge of HTML, CSS, PHP.<br>🌱 Python coder with proficiency.<br>👯Familiarity with cloud computing
+🔭 Post-Graduate Student || MCA.<br>🤝 Basic knowledge of HTML, CSS, PHP.<br>🌱 Python coder with proficiency.<br>👯Familiarity with cloud computing
 
 
 ## 🌐 Socials:
